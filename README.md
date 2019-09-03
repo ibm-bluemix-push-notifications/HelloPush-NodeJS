@@ -3,6 +3,23 @@
 This helloPush sample contains an NodeJS project that you can use to learn more about the IBM Cloud Push Notification Service.
 
 ## Contents
+- [Prerequisites](#prerequisites)
+- [Samples and videos](#samples-and-videos)
+- [Create an instance of IBM Cloud Push Notifications Service](#create-an-instance-of-bluemix-push-notifications-service)
+
+
+### Prerequisites
+
+Before you start, make sure you have the following:
+
+- A [IBM Cloud](http://bluemix.net) account.
+- Register devices for the push notifications.
+
+### Create an instance of IBM Cloud Push Notifications Service
+- Create an instance of IBM Cloud Push Notifications Service and [configure](https://console.ng.bluemix.net/docs/services/mobilepush/t_push_provider_ios.html) it .
+
+
+### setup the app
 
 
 ### Samples and videos
