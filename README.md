@@ -21,6 +21,20 @@ Before you start, make sure you have the following:
 
 ### setup the app
 
+ 1. Run the `npm install` to install the packages.
+ 2. Add the service credentials in the following code,
+
+ ```JavaScript
+ // initialize with push service appSecret or apikey
+var myPushNotifications = new PushNotifications(PushNotifications.Region.US_SOUTH, "your-bluemix-app-guid", "your-push-service-appSecret");
+
+var myPushNotifications = new PushNotificationsApiKey(PushNotifications.Region.US_SOUTH, "your-bluemix-app-guid", "your-bluemix-push-apikey");
+
+ ```
+
+ ### Run the sample
+
+ To run the sample , use `node start` from terminal.
 
 ### Samples and videos
 
