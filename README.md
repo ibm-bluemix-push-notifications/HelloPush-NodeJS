@@ -4,8 +4,10 @@ This helloPush sample contains an NodeJS project that you can use to learn more 
 
 ## Contents
 - [Prerequisites](#prerequisites)
-- [Samples and videos](#samples-and-videos)
 - [Create an instance of IBM Cloud Push Notifications Service](#create-an-instance-of-bluemix-push-notifications-service)
+- [setup the app](#setup-the-app)
+- [Run the sample app](#run-the-sample-app)
+- [Samples and videos](#samples-and-videos)
 
 
 ### Prerequisites
@@ -32,7 +34,7 @@ var myPushNotifications = new PushNotificationsApiKey(PushNotifications.Region.U
 
  ```
 
- ### Run the sample
+ ### Run the sample app
 
  To run the sample , use `node start` from terminal.
 
